@@ -44,7 +44,9 @@ For development, the following devDependencies are also used:
 
 ## Getting Started
 
-1. Install dependencies using `npm install`.
+1. Clone this repository.
+2. cd React_Practical_test.
+3. Install dependencies using `npm install`.
 
 ## Usage
 
