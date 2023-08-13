@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1691858709323,
+      "name": "Rutvi ",
+      "email": "rutvivasani26@gmail.com",
+      "role": "Administrator",
+      "password": "12345678",
+      "image": "/images/1691858701949-Rangolli2.webp"
+    },
+    {
+      "id": 1691858752852,
+      "name": "Test",
+      "email": "Test6@gmail.com",
+      "role": "Editor",
+      "password": "12345678121",
+      "image": "/images/1691858745335-bg-2.jpg"
+    },
+    {
+      "id": 1691859532761,
+      "name": "testing",
+      "email": "testiung@gmail.com",
+      "role": "Viewer",
+      "password": "password",
+      "image": "/images/1691859520952-shop-bg (2).jpg"
+    }
+  ]
+}
